@@ -1,6 +1,6 @@
 {
   "name": "@khirayama/react-circuit",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "",
   "main": "lib",
   "engines": {
@@ -24,7 +24,10 @@
     "url": "git+https://github.com/khirayama/react-circuit.git"
   },
   "keywords": [
-    "flux"
+    "circuit",
+    "@khirayama/circuit",
+    "flux",
+    "react"
   ],
   "author": "khirayama",
   "license": "MIT",
@@ -33,7 +36,7 @@
   },
   "homepage": "https://github.com/khirayama/react-circuit#readme",
   "dependencies": {
-    "@khirayama/circuit": "^0.1.0",
+    "@khirayama/circuit": "^1.0.0",
     "react": "^15.4.1"
   },
   "devDependencies": {
