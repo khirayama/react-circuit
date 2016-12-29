@@ -10,7 +10,7 @@ npm install --save @khirayama/react-circuit
 
 ## Documentation
 
-[Documents](documents.md)
+[Documents](docs)
 
 ## Examples
 
